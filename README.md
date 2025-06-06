@@ -22,4 +22,4 @@ The cleaned and balanced dataset is provided in the file `creditcard_cleaned.csv
 ## Files Included
 
 - `eda_creditcard_fraud.ipynb`: Notebook containing the EDA process.
-- `creditcard_cleaned.csv`: Cleaned and resampled dataset for modeling.
+- `creditcard_cleaned.csv`: Cleaned and resampled dataset for modeling. Downloadable inside the notebook.
