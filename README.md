@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection – EDA
+# 💸 Credit Card Fraud Detection – EDA
 
 ## Project Summary
 
